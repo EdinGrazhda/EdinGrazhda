@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/edin grazhda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edin grazhda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edin grazhda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edin grazhda" height="30" width="40" /></a>
-<a href="https://fb.com/edin grazhda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edin grazhda" height="30" width="40" /></a>
-<a href="https://instagram.com/edin grazhda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edin grazhda" height="30" width="40" /></a>
+<a href="https://x.com/EdinGrazhda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edin grazhda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edin-grazhda-977a472b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edin grazhda" height="30" width="40" /></a>
+<a href="https://www.facebook.com/edin.grazhda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edin grazhda" height="30" width="40" /></a>
+<a href="https://www.instagram.com/edin.grazhda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edin grazhda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
